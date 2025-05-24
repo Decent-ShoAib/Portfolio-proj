@@ -7,7 +7,7 @@ Welcome to my personal developer portfolio project. This is a simple, modern and
 ## 🔗 Live Demo
 
 You can check out my portfolio live at:  
-[https://shoab-sheikh-portfolio.vercel.app](https://shoab-sheikh-portfolio.vercel.app)
+[https://shoaib-sheikh.vercel.app/](https://shoaib-sheikh.vercel.app/)
 
 ## 🧠 About Me
 
