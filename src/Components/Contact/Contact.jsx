@@ -20,11 +20,14 @@ function Contact() {
         </div>
       </div>
       <div className='icons'>
-        <a href="https://www.linkedin.com/in/shoaib-sheikh-543bb024b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='_blank' rel='noopener noreferrer'><FaLinkedin color='white' size={30} /></a>
+        <a href="https://www.linkedin.com/in/muhammad-shoaib-javed-543bb024b/
+" target='_blank' rel='noopener noreferrer'><FaLinkedin color='white' size={30} /></a>
 
-        <a href="https://www.facebook.com/share/18vo3iQZRq/" target='_blank' rel='noopener noreferrer'><FaFacebook color='white' size={30} /></a>
+        <a href="https://www.facebook.com/shoaib.sheikh.674247
+" target='_blank' rel='noopener noreferrer'><FaFacebook color='white' size={30} /></a>
 
-        <a href="https://www.instagram.com/decent_shoaib?igsh=bmQzem45dDh0d3Mx" target='_blank' rel='noopener  nooreferrer '><SiInstagram color='white' size={30} /></a>
+        <a href="https://www.instagram.com/decent_shoaib/
+" target='_blank' rel='noopener  nooreferrer '><SiInstagram color='white' size={30} /></a>
 
       </div>
     </>
